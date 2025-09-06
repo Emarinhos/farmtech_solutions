@@ -1,2 +1,5 @@
-﻿python/data/*.csv
+﻿venv/
+__pycache__/
+*.Rhistory
+*.Rproj.user
 python/data/*.csv
