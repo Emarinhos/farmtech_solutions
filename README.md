@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-# farmtech_solutions
-Farmtech projeto.
-=======
-# FarmTech Solutions Project
-## Como rodar (Windows + VS Code)
 
-### Python
+
+# Farmtech projeto.
+## FarmTech Solutions Project
+### Como rodar (Windows + VS Code)
+
+#### Python
 ```powershell
 .\venv\Scripts\activate.bat
 python python\app.py
@@ -38,4 +37,4 @@ Crie `.vscode/tasks.json`:
     }
   ]
 }
->>>>>>> d050722 (chore(repo): migrar raiz do repositório para farmtech_solutions/)
+d050722 (chore(repo): migrar raiz do repositório para farmtech_solutions/)
